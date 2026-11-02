@@ -42,3 +42,13 @@ These seven images were supplied directly by the shop owner and converted to Web
 ## Updated shop logo
 
 - `shiv-glass-logo-v2.webp` and `../favicon.png` — updated logo artwork supplied by the shop owner on 2026-11-02; cropped to remove excess blank margin and optimized for the website.
+
+
+## Cropped product references supplied by the shop owner
+
+The following supplied screenshots were cropped to the product photography only, removing browser controls, retailer names, ratings, buttons and other page UI. Crops were optimized to WebP and added to service cards and the gallery.
+
+- `user/reference-partition-frame.webp` — framed glass office partitions.
+- `user/reference-aluminium-office.webp` — aluminium framed glass office with entry door.
+- `user/reference-glass-corridor.webp` — bright glass partition office corridor.
+- `user/reference-frosted-partition.webp` — glass office partition with frosted panels.
