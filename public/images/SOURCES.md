@@ -37,3 +37,8 @@ These seven images were supplied directly by the shop owner and converted to Web
 - `user/aluminium-sliding-window.webp` — aluminium sliding window.
 - `user/partition-project-overview.webp` — collage of partition examples.
 - `user/aluminium-window-sections.webp` — aluminium window section types infographic.
+
+
+## Updated shop logo
+
+- `shiv-glass-logo-v2.webp` and `../favicon.png` — updated logo artwork supplied by the shop owner on 2026-11-02; cropped to remove excess blank margin and optimized for the website.
